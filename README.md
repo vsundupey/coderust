@@ -2,9 +2,9 @@
 
 ## Arrays
 
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Find Maximum in Sliding Window
-- [ ] Search Rotated Array
+- [x] Search Rotated Array
 - [ ] Find the Smallest Common Number
 - [ ] Rotate Array
 - [ ] Find Low/High index
@@ -16,3 +16,41 @@
 
 ## LinkedList
 
+- TODO
+
+## Math & Stats
+
+- TODO
+
+## Strings
+
+- TODO
+
+## Trees
+
+- TODO
+
+## Stack & Queues
+
+- TODO
+
+## Graphs
+
+- TODO
+
+## Back Tracking
+
+- TODO
+
+## Dynamic programming
+
+- [x] Fibonacci Numbers
+- TODO
+
+## Miscellaneous
+
+- TODO
+
+## Appendix
+
+- TODO
