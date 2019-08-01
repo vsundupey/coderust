@@ -5,7 +5,7 @@
 - [x] Binary Search
 - [x] Find Maximum in Sliding Window
 - [x] Search Rotated Array
-- [ ] Find the Smallest Common Number
+- [x] Find the Smallest Common Number
 - [ ] Rotate Array
 - [ ] Find Low/High index
 - [ ] Move zeros to left
