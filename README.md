@@ -6,7 +6,11 @@
 - [x] Find Maximum in Sliding Window
 - [x] Search Rotated Array
 - [x] Find the Smallest Common Number
+<<<<<<< HEAD
 - [x] Rotate Array
+=======
+- [ ] Rotate Array
+>>>>>>> 51f6edad9bf036405edf537e14cdb594b8462dbe
 - [ ] Find Low/High index
 - [ ] Move zeros to left
 - [ ] Find maximum single sell profit
