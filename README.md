@@ -5,8 +5,8 @@
 - [x] Binary Search
 - [x] Find Maximum in Sliding Window
 - [x] Search Rotated Array
-- [ ] Find the Smallest Common Number
-- [ ] Rotate Array
+- [x] Find the Smallest Common Number
+- [x] Rotate Array
 - [ ] Find Low/High index
 - [ ] Move zeros to left
 - [ ] Find maximum single sell profit
