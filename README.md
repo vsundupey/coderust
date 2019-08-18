@@ -1,4 +1,6 @@
-# coderust
+# Coderust
+
+My solutions for Coderust: Hacking the Coding Interview course using C# and python.
 
 ## Arrays
 
