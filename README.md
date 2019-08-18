@@ -10,9 +10,9 @@
 - [x] Find Low/High index
 - [x] Move zeros to left
 - [ ] Find maximum single sell profit
-- [ ] Implement Quicksort
+- [x] Implement Quicksort
 - [ ] Merge Overlapping Intervals
-- [ ] Merge Overlapping IntervalsSum of Two Values
+- [x] Sum of two values
 
 ## LinkedList
 
@@ -24,7 +24,13 @@
 
 ## Strings
 
-- TODO
+- [x] Reverse Words in a Sentence
+- [x] Remove Duplicates
+- [x] Remove White Spaces
+- [x] String Segmentation
+- [ ] XML to Tree
+- [ ] Find all Palindrome Substrings
+- [ ] Regular Expression
 
 ## Trees
 
